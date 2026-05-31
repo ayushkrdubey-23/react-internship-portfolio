@@ -60,7 +60,7 @@ npm run dev
 
 ## GitHub Repository
 
-[Paste your Repository Link Here]
+https://github.com/ayushkrdubey-23/react-internship-portfolio
 
 ## Author
 
