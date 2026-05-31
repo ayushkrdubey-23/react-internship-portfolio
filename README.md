@@ -56,7 +56,7 @@ npm run dev
 
 ## Live Demo
 
-[Paste your Vercel Link Here]
+https://react-internship-portfolio.vercel.app/
 
 ## GitHub Repository
 
